@@ -8,7 +8,9 @@ devtools::install_github("wxguillo/machuruku")
 ```
 For both quick and detailed tutorials on how to use Machuruku, please visit the [tutorial page](https://github.com/wxguillo/machuruku/tree/main/tutorial) in this repository.
 
-Please stay tunned for the paper on this (also if you use this software, please cite this): Guillory WG, Brown JL. A new method for integrating ecological niche modeling with phylogenetics to estimate ancestral distributions. Systematic Biology - in press
+Please stay tunned for the paper on this!
+
+**Citation**: Guillory WG, Brown JL. A new method for integrating ecological niche modeling with phylogenetics to estimate ancestral distributions. Systematic Biology - in press
 
 ![Alt text](https://raw.githubusercontent.com/jasonleebrown/machuruku/master/machurukuLogoShamelessFrog.jpg?raw=true "Title")
 
