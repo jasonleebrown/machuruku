@@ -1,5 +1,5 @@
 # machuruku
-Machuruku is an R package developed with [Wilson X. Guillory](https://scholar.google.com/citations?user=a_n1uCIAAAAJ&hl=en) for phylogenetic niche modeling.  Machuruku estimates ancestral distributions based on ancestral niche reconstructions and niche-modeling.  The most update version of this is hosted on Wilson's Github: https://github.com/wxguillo/machuruku.  Please stay tunned for our paper on this in Systematic Biology!
+Machuruku is an R package developed with [Wilson X. Guillory](https://scholar.google.com/citations?user=a_n1uCIAAAAJ&hl=en) for phylogenetic niche modeling.  Machuruku estimates ancestral distributions based on ancestral niche reconstructions and niche-modeling.  The most update version of this is hosted on Wilson's Github: https://github.com/wxguillo/machuruku.  Please stay tunned for the assocaited paper coming soon in Systematic Biology!
 
 To install Machuruku, simply run the following in R:
 ```
