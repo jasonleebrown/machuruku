@@ -3,7 +3,8 @@ Machuruku is an R package developed with [Wilson X. Guillory](https://scholar.go
 
 To install Machuruku, simply run the following in R:
 ```
-install.packages("devtools")
+install.packages(c("BiocManager", "devtools"))
+BiocManager::install("ggtree")
 devtools::install_github("wxguillo/machuruku")
 ```
 For both quick and detailed tutorials on how to use Machuruku, please visit the [tutorial page](https://github.com/wxguillo/machuruku/tree/main/tutorial) in this repository.
